@@ -1,0 +1,25 @@
+
+.today {
+    color: darkred;
+}
+
+.tomorrow {
+    color: darkblue;
+}
+
+.link {
+    text-decoration: none;
+}
+
+.link2 {
+    color: #3cc276;
+}
+
+h2 {
+    font-size: 20px;
+}
+
+body {
+    font-family: Arial;
+    background-color: bisque;
+}
